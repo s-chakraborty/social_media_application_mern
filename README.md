@@ -1,6 +1,6 @@
 > 23 - Nov - 2022
 
-# Mini Social Media MERN App | 
+# Mini Social Media MERN App | link: https://phenomenal-pavlova-4fef17.netlify.app/
 
 ## Frontend | lib used...
 1. React
