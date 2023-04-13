@@ -1,6 +1,10 @@
 > 23 - Nov - 2022
 
-# Mini Social Media MERN App | link: https://phenomenal-pavlova-4fef17.netlify.app/
+# Mini Social Media MERN App | 
+
+link: https://phenomenal-pavlova-4fef17.netlify.app/
+
+backend deployed: https://social-media-application-mern.onrender.com
 
 ## Frontend | lib used...
 1. React
